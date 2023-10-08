@@ -32,4 +32,4 @@ watch (() => route.fullPath, () =>{
   userStore.isLoading = true
 })
 })
-</script
+</script>
