@@ -89,7 +89,7 @@
                 <NuxtLink to="/" class="min-w-[170px]">
                     <img 
                         width="170"
-                        src="/AliExpress-logo.png"
+                        src="/AliExpress-Logo.png"
                     >
                 </NuxtLink>
 

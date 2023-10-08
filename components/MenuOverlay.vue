@@ -4,7 +4,7 @@
             <NuxtLink to="/" @click="userStore.isMenuOverlay = false">
                 <img 
                     width="170"
-                    src="/AliExpress-logo.png"
+                    src="/AliExpress-Logo.png"
                 >
             </NuxtLink>
 
