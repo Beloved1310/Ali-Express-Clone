@@ -1,5 +1,6 @@
 <template>
     <div 
+    v-if=false
         class="
             fixed 
             bg-black 
